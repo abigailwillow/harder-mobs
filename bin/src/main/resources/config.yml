@@ -1,8 +1,0 @@
-# Chance of spawning a charged creeper (0 = 0%, 1 = 100%)
-chargedCreeperChance: 0.10
-# Chance of a skeleton shooting a poison tipped arrow (0 = 0%, 1 = 100%)
-poisonArrowChance: 0.25
-# Duration of poison arrows in ticks (100 ~= 5 seconds)
-poisonArrowDuration: 100
-# How long spider bites should slow a player down in ticks (100 ~= 5 seconds)
-spiderSlownessLength: 100
